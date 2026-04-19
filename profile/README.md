@@ -5,6 +5,7 @@
 </picture>
 
 **VideoDB is a modern agentic backend for multimedia.**
+Turn continuous media into real-time context, searchable memory, and event-driven actions — enabling agents to **see**, **understand**, and **act**.
 
 <a href="https://videodb.io" target="_blank"><img src="https://img.shields.io/badge/videodb.io-website-blue" alt="Website"></a>
 <a href="https://docs.videodb.io" target="_blank"><img src="https://img.shields.io/badge/docs-videodb.io-green" alt="Documentation"></a>
@@ -16,13 +17,10 @@
 
 ---
 
-We give AI agents eyes, ears, memory, and actions over video and audio.
+Your agents can read text and static images. But the real world is live, continuous, and always changing. To operate with real context, your agent needs real-time access to video calls, camera feeds, screen recordings, and live internet streams.
 
-Turn continuous media into real-time context, searchable memory, and event-driven actions — enabling agents to **see**, **understand**, and **act**.
 
-```
-See (Ingest) → Understand (Index) → Act (Transform)
-```
+For agents to move beyond text boxes and interact with the physical or digital world via screens and cameras, they need a way to parse continuous visual and auditory data. VideoDB provides this through a specialized backend service that indexes video at the scene level - making it possible for an agent to “recall” specific events or “see” real-time occurrences without building the video infrastructure.
 
 <br>
 
