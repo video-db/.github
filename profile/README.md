@@ -6,9 +6,10 @@
   </a>
 <p align="center">
 VideoDB is the modern agentic backend for video and audio.
----
 
-VideoDB unifies storage, indexing, streaming, and editing into a single system built for continuous media.
+  ---
+
+It unifies storage, indexing, streaming, and editing into a single system built for continuous media.
 
 With universal ingestion, it accepts files, live streams, and real-time capture from any source, and converts them into structured, searchable context.
 
