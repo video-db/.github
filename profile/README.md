@@ -4,21 +4,21 @@
   <img alt="VideoDB" src="https://raw.githubusercontent.com/video-db/.github/main/assets/videodb-logo-light.svg" height="50">
 </picture>
 
-### The modern agentic backend for video and audio — real-time streams and archives
+**VideoDB is a modern agentic backend for multimedia.**
 
-[![Website](https://img.shields.io/badge/videodb.io-website-blue)](https://videodb.io)
-[![Documentation](https://img.shields.io/badge/docs-videodb.io-green)](https://docs.videodb.io)
-[![API Reference](https://img.shields.io/badge/API-reference-orange)](https://docs.videodb.io/api-reference/introduction)
-[![Discord](https://img.shields.io/badge/Discord-join-7289da?logo=discord&logoColor=white)](https://discord.com/invite/py9P639jGz)
-[![Twitter](https://img.shields.io/twitter/follow/video_db?style=social)](https://twitter.com/video_db)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-0A66C2?logo=linkedin)](https://www.linkedin.com/company/videodb-io)
-[![YouTube](https://img.shields.io/badge/YouTube-subscribe-FF0000?logo=youtube)](https://www.youtube.com/@videodb)
+<a href="https://videodb.io" target="_blank"><img src="https://img.shields.io/badge/videodb.io-website-blue" alt="Website"></a>
+<a href="https://docs.videodb.io" target="_blank"><img src="https://img.shields.io/badge/docs-videodb.io-green" alt="Documentation"></a>
+<a href="https://docs.videodb.io/api-reference/introduction" target="_blank"><img src="https://img.shields.io/badge/API-reference-orange" alt="API Reference"></a>
+<a href="https://discord.com/invite/py9P639jGz" target="_blank"><img src="https://img.shields.io/badge/Discord-join-7289da?logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://twitter.com/video_db" target="_blank"><img src="https://img.shields.io/twitter/follow/video_db?style=social" alt="Twitter"></a>
+<a href="https://www.linkedin.com/company/videodb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-follow-0A66C2?logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/@videodb" target="_blank"><img src="https://img.shields.io/badge/YouTube-subscribe-FF0000?logo=youtube" alt="YouTube"></a>
 
 ---
 
-**VideoDB** gives AI agents eyes, ears, memory, and actions over video and audio.
+We give AI agents eyes, ears, memory, and actions over video and audio.
 
-We turn continuous media into real-time context, searchable memory, and event-driven actions — enabling agents to **see**, **understand**, and **act**.
+Turn continuous media into real-time context, searchable memory, and event-driven actions — enabling agents to **see**, **understand**, and **act**.
 
 ```
 See (Ingest) → Understand (Index) → Act (Transform)
@@ -36,9 +36,9 @@ npx skills add video-db/skills
 
 Or try our interactive notebooks:
 
-[![Open Quickstart in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/VideoDB_Quickstart_See_Understand_Act.ipynb) **See → Understand → Act Quickstart**
+<a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/VideoDB_Quickstart_See_Understand_Act.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Quickstart in Colab"></a> **See → Understand → Act Quickstart**
 
-[![Open Multicam in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/Multicam_Quickstart.ipynb) **Multi-Camera Surveillance Demo**
+<a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/Multicam_Quickstart.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Multicam in Colab"></a> **Multi-Camera Surveillance Demo**
 
 <br>
 
@@ -48,10 +48,10 @@ Build AI applications that understand and process video as structured data.
 
 | | |
 |---|---|
-| [**skills**](https://github.com/video-db/skills) | Server-side video workflows for agents — capture, process, understand, generate, stream |
-| [**videodb-python**](https://github.com/video-db/videodb-python) | Official Python SDK — upload, index, search, edit, and stream video programmatically |
-| [**videodb-node**](https://github.com/video-db/videodb-node) | Official Node.js/TypeScript SDK |
-| [**agent-toolkit**](https://github.com/video-db/agent-toolkit) | MCP server + LLM context files for seamless AI IDE integration |
+| <a href="https://github.com/video-db/skills" target="_blank"><b>skills</b></a> | Server-side video workflows for agents — capture, process, understand, generate, stream |
+| <a href="https://github.com/video-db/videodb-python" target="_blank"><b>videodb-python</b></a> | Official Python SDK — upload, index, search, edit, and stream video programmatically |
+| <a href="https://github.com/video-db/videodb-node" target="_blank"><b>videodb-node</b></a> | Official Node.js/TypeScript SDK |
+| <a href="https://github.com/video-db/agent-toolkit" target="_blank"><b>agent-toolkit</b></a> | MCP server + LLM context files for seamless AI IDE integration |
 
 <br>
 
@@ -61,7 +61,7 @@ Build intelligent video agents and orchestrate complex workflows.
 
 | | |
 |---|---|
-| [**Director**](https://github.com/video-db/Director) ⭐ 1.4k | AI video agents framework — 20+ pre-built agents for summarization, search, clipping, script-to-movie, dubbing, and more |
+| <a href="https://github.com/video-db/Director" target="_blank"><b>Director</b></a> ⭐ 1.4k | AI video agents framework — 20+ pre-built agents for summarization, search, clipping, script-to-movie, dubbing, and more |
 
 <br>
 
@@ -71,9 +71,9 @@ Screen-aware, voice-aware AI agents built on VideoDB.
 
 | | |
 |---|---|
-| [**call.md**](https://github.com/video-db/call.md) | Transform meetings into agentic loops — record, transcribe, analyze with real-time AI |
-| [**bloom**](https://github.com/video-db/bloom) | Open-source agentic Loom alternative — local-first recording with AI-powered workflows |
-| [**pair-programmer**](https://github.com/video-db/pair-programmer) | AI coding assistant that sees your screen and hears your voice — works with Claude Code, Cursor, Codex |
+| <a href="https://github.com/video-db/call.md" target="_blank"><b>call.md</b></a> | Transform meetings into agentic loops — record, transcribe, analyze with real-time AI |
+| <a href="https://github.com/video-db/bloom" target="_blank"><b>bloom</b></a> | Open-source agentic Loom alternative — local-first recording with AI-powered workflows |
+| <a href="https://github.com/video-db/pair-programmer" target="_blank"><b>pair-programmer</b></a> | AI coding assistant that sees your screen and hears your voice — works with Claude Code, Cursor, Codex |
 
 <br>
 
@@ -83,9 +83,9 @@ Open-source applications showcasing what's possible with VideoDB.
 
 | | |
 |---|---|
-| [**agentic-streams**](https://github.com/video-db/agentic-streams) | Autonomous agents that research the web and generate personalized video briefings |
-| [**PromptClip**](https://github.com/video-db/PromptClip) | Create video clips instantly from natural language prompts |
-| [**videodb-capture-quickstart**](https://github.com/video-db/videodb-capture-quickstart) | Real-time desktop capture SDK for AI agent perception |
+| <a href="https://github.com/video-db/agentic-streams" target="_blank"><b>agentic-streams</b></a> | Autonomous agents that research the web and generate personalized video briefings |
+| <a href="https://github.com/video-db/PromptClip" target="_blank"><b>PromptClip</b></a> | Create video clips instantly from natural language prompts |
+| <a href="https://github.com/video-db/videodb-capture-quickstart" target="_blank"><b>videodb-capture-quickstart</b></a> | Real-time desktop capture SDK for AI agent perception |
 
 <br>
 
@@ -95,16 +95,16 @@ Explore our comprehensive collection of examples and use cases:
 
 | Category | Description |
 |---|---|
-| [**Agentic Workflows**](https://docs.videodb.io/examples-and-tutorials/ai-copilots) | Pair Programmer, OpenClaw Monitoring, Call.md, Bloom, Focusd |
-| [**Video RAG & Search**](https://docs.videodb.io/examples-and-tutorials/video-rag) | Keyword Search, Multimodal Search, Character Clips, Conference Slides |
-| [**Live Intelligence**](https://docs.videodb.io/examples-and-tutorials/live-intelligence) | Intrusion Detection, Baby Monitoring, Road Monitoring, Sports Analytics |
-| [**Content Factory**](https://docs.videodb.io/examples-and-tutorials/content-factory) | Faceless Videos, AI Dubbing, Voiceovers, Text-to-Video |
-| [**Programmatic Editing**](https://docs.videodb.io/examples-and-tutorials/programmatic-editing) | Intro/Outro, Brand Elements, Dynamic Ads, Audio Overlay |
-| [**AI-Powered Safety**](https://docs.videodb.io/examples-and-tutorials/safety-compliance) | Content Moderation, Profanity Detection, Copyright Compliance |
+| <a href="https://docs.videodb.io/examples-and-tutorials/ai-copilots" target="_blank"><b>Agentic Workflows</b></a> | Pair Programmer, OpenClaw Monitoring, Call.md, Bloom, Focusd |
+| <a href="https://docs.videodb.io/examples-and-tutorials/video-rag" target="_blank"><b>Video RAG & Search</b></a> | Keyword Search, Multimodal Search, Character Clips, Conference Slides |
+| <a href="https://docs.videodb.io/examples-and-tutorials/live-intelligence" target="_blank"><b>Live Intelligence</b></a> | Intrusion Detection, Baby Monitoring, Road Monitoring, Sports Analytics |
+| <a href="https://docs.videodb.io/examples-and-tutorials/content-factory" target="_blank"><b>Content Factory</b></a> | Faceless Videos, AI Dubbing, Voiceovers, Text-to-Video |
+| <a href="https://docs.videodb.io/examples-and-tutorials/programmatic-editing" target="_blank"><b>Programmatic Editing</b></a> | Intro/Outro, Brand Elements, Dynamic Ads, Audio Overlay |
+| <a href="https://docs.videodb.io/examples-and-tutorials/safety-compliance" target="_blank"><b>AI-Powered Safety</b></a> | Content Moderation, Profanity Detection, Copyright Compliance |
 
-[**Browse all examples →**](https://docs.videodb.io/examples-and-tutorials)
+<a href="https://docs.videodb.io/examples-and-tutorials" target="_blank"><b>Browse all examples →</b></a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-[**VideoDB Cookbook →**](https://github.com/video-db/videodb-cookbook)
+<a href="https://github.com/video-db/videodb-cookbook" target="_blank"><b>VideoDB Cookbook →</b></a>
 
 <br>
 
@@ -114,8 +114,8 @@ Connect VideoDB to your existing workflows.
 
 | | |
 |---|---|
-| [**n8n-nodes-videodb**](https://github.com/video-db/n8n-nodes-videodb) | n8n workflow nodes |
-| [**videodb-zapier-integration**](https://github.com/video-db/videodb-zapier-integration) | Zapier integration |
+| <a href="https://github.com/video-db/n8n-nodes-videodb" target="_blank"><b>n8n-nodes-videodb</b></a> | n8n workflow nodes |
+| <a href="https://github.com/video-db/videodb-zapier-integration" target="_blank"><b>videodb-zapier-integration</b></a> | Zapier integration |
 
 <br>
 
@@ -128,7 +128,7 @@ Connect VideoDB to your existing workflows.
 - **Programmable understanding** — indexes-as-code, evolving over time
 - **Built for agents** — the perception, memory, and action layer between storage and reasoning
 
-[**Read: Why AI Agents Are Blind →**](https://docs.videodb.io/pages/philosophy/why-agents-are-blind)
+<a href="https://docs.videodb.io/pages/philosophy/why-agents-are-blind" target="_blank"><b>Read: Why AI Agents Are Blind →</b></a>
 
 <br>
 
@@ -153,15 +153,15 @@ results = video.search("key moments")
 results.play()
 ```
 
-[**Read the docs →**](https://docs.videodb.io) &nbsp;|&nbsp; [**API Reference →**](https://docs.videodb.io/api-reference/introduction)
+<a href="https://docs.videodb.io" target="_blank"><b>Read the docs →</b></a> &nbsp;|&nbsp; <a href="https://docs.videodb.io/api-reference/introduction" target="_blank"><b>API Reference →</b></a>
 
 ---
 
 <p align="center">
-  <a href="https://videodb.io">Website</a> •
-  <a href="https://docs.videodb.io">Docs</a> •
-  <a href="https://discord.com/invite/py9P639jGz">Discord</a> •
-  <a href="https://twitter.com/video_db">Twitter</a> •
-  <a href="https://www.linkedin.com/company/videodb-io">LinkedIn</a> •
-  <a href="https://www.youtube.com/@videodb">YouTube</a>
+  <a href="https://videodb.io" target="_blank">Website</a> •
+  <a href="https://docs.videodb.io" target="_blank">Docs</a> •
+  <a href="https://discord.com/invite/py9P639jGz" target="_blank">Discord</a> •
+  <a href="https://twitter.com/video_db" target="_blank">Twitter</a> •
+  <a href="https://www.linkedin.com/company/videodb/" target="_blank">LinkedIn</a> •
+  <a href="https://www.youtube.com/@videodb" target="_blank">YouTube</a>
 </p>
