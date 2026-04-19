@@ -1,12 +1,12 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/video-db/.github/main/assets/videodb-logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/video-db/.github/main/assets/videodb-logo-light.svg">
-  <img alt="VideoDB" src="https://raw.githubusercontent.com/video-db/.github/main/assets/videodb-logo-light.svg" height="50">
-</picture>
-
-**VideoDB is the modern agentic backend for multimedia.**
-
-Turn continuous media into real-time context, searchable memory, and event-driven actions — enabling agents to **see**, **understand**, and **act**.
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://videodb.io/">
+    <img src="https://codaio.imgix.net/docs/_s5lUnUCIU/blobs/bl-RgjcFrrJjj/d3cbc44f8584ecd42f2a97d981a144dce6a66d83ddd5864f723b7808c7d1dfbc25034f2f25e1b2188e78f78f37bcb79d3c34ca937cbb08ca8b3da1526c29da9a897ab38eb39d084fd715028b7cc60eb595c68ecfa6fa0bb125ec2b09da65664a4f172c2f" alt="Logo" width="300" height="">
+  </a>
+<p align="center">
+VideoDB is the modern agentic backend for multimedia.
+>
 
 <a href="https://videodb.io" target="_blank"><img src="https://img.shields.io/badge/videodb.io-website-blue" alt="Website"></a>
 <a href="https://docs.videodb.io" target="_blank"><img src="https://img.shields.io/badge/docs-videodb.io-green" alt="Documentation"></a>
@@ -18,10 +18,9 @@ Turn continuous media into real-time context, searchable memory, and event-drive
 
 ---
 
-Your agents can read text and static images. But the real world is live, continuous, and always changing. To operate with real context, your agent needs real-time access to video calls, camera feeds, screen recordings, and live internet streams.
+Your agents can read text and static images. But the real world is live, continuous, and always changing. To operate with real context, your agent needs real-time access to video calls, camera feeds, screen recordings, and live internet streams. 
 
-
-For agents to move beyond text boxes and interact with the physical or digital world via screens and cameras, they need a way to parse continuous visual and auditory data. VideoDB provides this through a specialized backend service that indexes video at the scene level - making it possible for an agent to “recall” specific events or “see” real-time occurrences without building the video infrastructure.
+VideoDB turns continuous media into real-time context, searchable memory, and event-driven actions — enabling agents to **see**, **understand**, and **act**.
 
 <br>
 
@@ -39,9 +38,12 @@ Or try our interactive notebooks:
 
 <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/Multicam_Quickstart.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Multicam in Colab"></a> **Multi-Camera Surveillance Demo**
 
+For agents to move beyond text boxes and interact with the physical or digital world via screens and cameras, they need a way to parse continuous visual and auditory data. VideoDB provides this through a specialized backend service that indexes video at the scene level - making it possible for an agent to “recall” specific events or “see” real-time occurrences without building the video infrastructure.
+
 <br>
 
 ## SDKs & Agent Skills
+
 
 Build AI applications that understand and process video as structured data.
 
