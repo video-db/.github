@@ -8,14 +8,6 @@
 VideoDB is the modern agentic backend for multimedia.
 >
 
-<a href="https://videodb.io" target="_blank"><img src="https://img.shields.io/badge/videodb.io-website-blue" alt="Website"></a>
-<a href="https://docs.videodb.io" target="_blank"><img src="https://img.shields.io/badge/docs-videodb.io-green" alt="Documentation"></a>
-<a href="https://docs.videodb.io/api-reference/introduction" target="_blank"><img src="https://img.shields.io/badge/API-reference-orange" alt="API Reference"></a>
-<a href="https://discord.com/invite/py9P639jGz" target="_blank"><img src="https://img.shields.io/badge/Discord-join-7289da?logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://twitter.com/video_db" target="_blank"><img src="https://img.shields.io/twitter/follow/video_db?style=social" alt="Twitter"></a>
-<a href="https://www.linkedin.com/company/videodb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-follow-0A66C2?logo=linkedin" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/@videodb" target="_blank"><img src="https://img.shields.io/badge/YouTube-subscribe-FF0000?logo=youtube" alt="YouTube"></a>
-
 ---
 
 Your agents can read text and static images. But the real world is live, continuous, and always changing. To operate with real context, your agent needs real-time access to video calls, camera feeds, screen recordings, and live internet streams. 
