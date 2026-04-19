@@ -5,19 +5,22 @@
     <img src="https://codaio.imgix.net/docs/_s5lUnUCIU/blobs/bl-RgjcFrrJjj/d3cbc44f8584ecd42f2a97d981a144dce6a66d83ddd5864f723b7808c7d1dfbc25034f2f25e1b2188e78f78f37bcb79d3c34ca937cbb08ca8b3da1526c29da9a897ab38eb39d084fd715028b7cc60eb595c68ecfa6fa0bb125ec2b09da65664a4f172c2f" alt="Logo" width="300" height="">
   </a>
 <p align="center">
-VideoDB is the modern agentic backend for multimedia
-
+VideoDB is the modern agentic backend for video and audio.
 ---
 
-Your agents can read text and static images. But the real world is live, continuous, and always changing. To operate with real context, your agent needs real-time access to video calls, camera feeds, screen recordings, and live internet streams. 
+VideoDB unifies storage, indexing, streaming, and editing into a single system built for continuous media.
 
-VideoDB turns continuous media into real-time context, searchable memory, and event-driven actions — enabling agents to **see**, **understand**, and **act**.
+With universal ingestion, it accepts files, live streams, and real-time capture from any source, and converts them into structured, searchable context.
+
+It provides memory and recall at the scene level, allowing agents to retrieve precise moments instead of entire files.
+
+VideoDB also enables real-time stream processing, where video can be modified, enriched, and delivered dynamically over video streams.
 
 <br>
 
 ## Quick Start
 
-Get perception capabilities for your AI agent in seconds:
+Your agents can read text and static images. But the real world is live, continuous, and always changing. To operate with real context, your agent needs real-time access to video calls, camera feeds, screen recordings, and live internet streams. 
 
 ```bash
 npx skills add video-db/skills
@@ -29,7 +32,6 @@ Or try our interactive notebooks:
 
 <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/Multicam_Quickstart.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Multicam in Colab"></a> **Multi-Camera Surveillance Demo**
 
-For agents to move beyond text boxes and interact with the physical or digital world via screens and cameras, they need a way to parse continuous visual and auditory data. VideoDB provides this through a specialized backend service that indexes video at the scene level - making it possible for an agent to “recall” specific events or “see” real-time occurrences without building the video infrastructure.
 
 <br>
 
@@ -58,8 +60,7 @@ Build intelligent video agents and orchestrate complex workflows.
 <br>
 
 ## Agents
-
-Screen-aware, voice-aware AI agents built on VideoDB.
+VideoDB turns continuous media into real-time context, searchable memory, and event-driven actions — enabling agents to **see**, **understand**, and **act**. Checkout Screen-aware, voice-aware AI agents built on VideoDB.
 
 | | |
 |---|---|
