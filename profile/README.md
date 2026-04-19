@@ -4,7 +4,8 @@
   <img alt="VideoDB" src="https://raw.githubusercontent.com/video-db/.github/main/assets/videodb-logo-light.svg" height="50">
 </picture>
 
-**VideoDB is a modern agentic backend for multimedia.**
+**VideoDB is the modern agentic backend for multimedia.**
+
 Turn continuous media into real-time context, searchable memory, and event-driven actions — enabling agents to **see**, **understand**, and **act**.
 
 <a href="https://videodb.io" target="_blank"><img src="https://img.shields.io/badge/videodb.io-website-blue" alt="Website"></a>
